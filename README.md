@@ -1,1 +1,1 @@
-A simple coding gamne. Help Robostolte! # Adventure-Game
+A simple coding game. Help Robostolte! # Adventure-Game
